@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Project Template</h1>
-<p>Built with Nix.</p>
+<p>Dev with Nix.</p>
 <a href="https://builtwithnix.org">
 <img src="https://builtwithnix.org/badge.svg">
 </a>
